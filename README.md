@@ -14,10 +14,17 @@ This tool was tested using the following libraries:
 > + OpenMP V4.5 [See installation](https://www.openmp.org/)
 
 ## 2. Usage
+
+> +[See executable](executable/)
+> +[See source code](src/)
+
+
 This tool was initially designed to run as a command-line application. It can be used in a computing cluster or via a web-based platform. It required only three parameters 
 + A friction raster map  (.tif) *-f* 
 + A localities raster file (.tif) *-l* 
 + A demmand file (.csv) *-d*
+
+
 
 **Example of usage**
 ```
