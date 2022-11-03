@@ -20,8 +20,10 @@ This tool was initially designed to run as a command-line application. It can be
 + A demmand file (.csv) *-d*
 
 **Example of usage**
-``` 
-bash fast_idw_cd -f <path_to_friction/fricction.tif> -l <path_to_locs/locs.tif> -d <path_to_demmand/demmand.csv>
+```
+1. cd /path_to_executable/
+
+2. ./fast_idw_cd -f <path_to_friction/fricction.tif> -l <path_to_locs/locs.tif> -d <path_to_demmand/demmand.csv>
 
 ``` 
 
