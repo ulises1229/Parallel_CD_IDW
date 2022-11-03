@@ -33,4 +33,4 @@ This tool was initially designed to run as a command-line application. It can be
 2. ./fast_idw_cd -f <path_to_friction/fricction.tif> -l <path_to_locs/locs.tif> -d <path_to_demmand/demmand.csv>
 
 ``` 
-**Last update: 02/11/2022**
+**Last update: 03/11/2022**
