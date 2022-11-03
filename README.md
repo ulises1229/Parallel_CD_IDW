@@ -30,7 +30,7 @@ This tool was initially designed to run as a command-line application. It can be
 ```
 1. cd /path_to_executable/
 
-2. ./fast_idw_cd -f <path_to_friction/fricction.tif> -l <path_to_locs/locs.tif> -d <path_to_demmand/demmand.csv>
+2. ./fast_idw_cd -f <path_to_friction_map/fricction.tif> -l <path_to_locs_file/locs.tif> -d <path_to_demmand_file/demmand.csv>
 
 ``` 
 **Last update: 03/11/2022**
