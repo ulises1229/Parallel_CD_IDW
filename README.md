@@ -14,6 +14,16 @@ This tool was tested using the following libraries:
 > + OpenMP V4.5 [See installation](https://www.openmp.org/)
 
 ## 2. Usage
-This tool was initially designed to run as a command-line application. It can be used in a computing cluster or via a web-based platform. It required only three parameters <-f friction map.tif> <-d demmand.csv> <-l localities.tif>
+This tool was initially designed to run as a command-line application. It can be used in a computing cluster or via a web-based platform. It required only three parameters 
++ A friction raster map  (.tif) *-f* 
++ A localities raster file (.tif) *-l* 
++ A demmand file (.csv) *-d*
+
+**Example of usage**
+``` 
+bash fast_idw_cd -f <path_to_friction/fricction.tif> -l <path_to_locs/locs.tif> -d <path_to_demmand/demmand.csv>
+
+``` 
+
 
 
