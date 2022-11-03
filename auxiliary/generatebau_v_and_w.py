@@ -37,13 +37,6 @@ class ImportDemmand():
         vehicle.insert(0, "ID", IDs)
         vehicle.to_csv(name.replace(".csv", "_vehicle.csv"), index=False)
 
-        
-        
-        
-        
-        
-
-
 def main():
     # Name of demmand file 
     name = "BaU_fwch.csv"
